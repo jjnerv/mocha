@@ -1,0 +1,21 @@
+{
+  "folders":
+  [
+    {
+      "file_exclude_patterns":
+      [
+          "package-lock.json",
+          "yarn.lock",
+          "mocha.js"
+      ],
+      "folder_exclude_patterns":
+      [
+          "distribution",
+          "node_modules",
+          ".tmp",
+          ".git"
+      ],
+      "path": "."
+    }
+  ]
+}
